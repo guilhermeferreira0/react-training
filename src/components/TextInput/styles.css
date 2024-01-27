@@ -1,0 +1,4 @@
+.input-search {
+    padding: 5px 10px;
+    width: clamp(150px, 50%, 600px);
+}
